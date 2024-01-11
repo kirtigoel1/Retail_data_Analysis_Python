@@ -17,12 +17,16 @@ In a nutshell, for big retail players all over the world, data analytics is appl
 days at all stages of the retail process – taking track of popular products that are emerging,
 doing forecasts of sales and future demand via predictive simulation, optimizing placements
 of products and offers through heat-mapping of customers and many others.
+
+
 DATA AVAILABILITY:
  Retail Data.xlsx
 o This book has three sheets (Customer, Transaction, Product Heirarchy)
 o Customer: Customers information including demographics
 o Transaction: Transactions of customers
 o Product Heirarchy: Product information (cateogry, sub category etc...)
+
+
 BUSINESS PROBLEM:
 A Retail store is required to analyze the day-to-day transactions and keep a track of its customers
 spread across various locations along with their purchases/returns across various categories.
